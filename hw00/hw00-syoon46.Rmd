@@ -1,0 +1,37 @@
+---
+title: "STAT385 HW0"
+author: "Danny Yoon, syoon46"
+date: "September 5, 2017"
+output:
+  html_document:
+    theme: readable
+    toc: yes
+---
+
+
+## Exercise 1: Know Thine Environment
+
+**R 3.4.1**
+```{r}
+R.Version()$version.string
+```
+
+**RStudio 1.0.153**
+
+```{r}
+RStudio.version()
+```
+
+**Git**
+
+**R Build Toolchain**
+
+**Slack**
+
+## Exercise 2: Toto, I have a feeling we’re not in Kansas anymore…
+
+## Exercise 4: Who I Am
+
+## Exercise 5: Got Code?
+
+## Exercise 6: Hopeless Wanderer
