@@ -1,0 +1,69 @@
+---
+title: "STAT385 HW0"
+author: "Danny Yoon, syoon46"
+date: "September 5, 2017"
+output:
+  html_document:
+    theme: readable
+    toc: yes
+---
+
+
+## Exercise 1: Know Thine Environment
+
+- **R 3.4.1**
+```{r}
+R.Version()$version.string
+```
+
+![](https://i.imgur.com/K706mp3.png)
+
+- **RStudio 1.0.153**
+
+```{r}
+#RStudio.version()
+```
+
+![](https://i.imgur.com/1MbbHNO.png)
+
+- **Git**
+
+![](https://i.imgur.com/vWqfvut.png)
+
+- **R Build Toolchain**
+
+```{r}
+#Rcpp::evalCpp("2+2") == 4
+```
+
+![](https://i.imgur.com/NOO94LX.png)
+
+- **Slack**
+
+![](https://i.imgur.com/thc9GKz.png)
+
+- **Verification of Working R Install**
+
+![](https://i.imgur.com/pX4AuQe.png)
+
+## Exercise 2: Toto, I have a feeling we’re not in Kansas anymore…
+
+1. James Balamuta
+
+2. Tech Plaza 212F, Tuesday & Thursday, 9:00 – 10:00 AM, Room G36 of the Foreign Language Building (FLB)
+
+3.
+
+4. 218 Mechanical Engineering Bldg, Monday, Wednesday, and Friday, 2:00 PM - 2:50 PM
+
+5. One midterm and one final exam, dates are not up yet. 
+
+6. Each component is worth 100 which makes 400 points total. Peer evaluations of group memebers may influence the gradse of students.
+
+7. It is allowed to help each other but all the code shuold be typed by each student, not copy and pasted. 
+
+## Exercise 4: Who I Am
+
+## Exercise 5: Got Code?
+
+## Exercise 6: Hopeless Wanderer
