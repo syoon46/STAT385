@@ -11,11 +11,16 @@ output:
 
 ## Exercise 1: Know Thine Environment
 
+<<<<<<< HEAD
 - **R 3.4.1**
+=======
+**R 3.4.1**
+>>>>>>> 5f08ef7fa428c8c0ca0e8fdbfe5fcc6264710d84
 ```{r}
 R.Version()$version.string
 ```
 
+<<<<<<< HEAD
 ![](https://i.imgur.com/K706mp3.png)
 
 - **RStudio 1.0.153**
@@ -62,6 +67,22 @@ R.Version()$version.string
 
 7. It is allowed to help each other but all the code shuold be typed by each student, not copy and pasted. 
 
+=======
+**RStudio 1.0.153**
+
+```{r}
+RStudio.version()
+```
+
+**Git**
+
+**R Build Toolchain**
+
+**Slack**
+
+## Exercise 2: Toto, I have a feeling we’re not in Kansas anymore…
+
+>>>>>>> 5f08ef7fa428c8c0ca0e8fdbfe5fcc6264710d84
 ## Exercise 4: Who I Am
 
 ## Exercise 5: Got Code?
